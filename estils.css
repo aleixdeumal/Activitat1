@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 6%;
+  
+}
+
+a {
+    text-decoration: none;
+    
+    
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    padding-left: 5%;
+    
+}
+
+img {
+    padding: 10%;
+
+}
